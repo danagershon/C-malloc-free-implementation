@@ -1,4 +1,4 @@
-# C malloc implementation
+# C malloc and free implementation
 
 Operating System Course HW4: C malloc Implementation in C++
 
